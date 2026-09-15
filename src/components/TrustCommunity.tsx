@@ -19,13 +19,9 @@ export const TrustCommunity: React.FC = () => {
               </div>
 
               <h2 className="text-3xl sm:text-4xl font-extrabold font-display text-stone-900 tracking-tight leading-tight">
-                A Family Business Serving Kingston & St. Andrew, Jamaica
-              </h2>
-
-              <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
                 What began as a family in St. Thomas has blossomed into Jamaica's most reliable dual-purpose mobile marketplace.
-              </p>
-
+              </h2>
+              
               <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
                 We believe that great food and great celebrations belong together. Every slab of jerk ribs is smoked with allspice pimento wood, every pizza crust is stone-baked fresh, and every event delivery is handled by vetted community drivers who treat your party like their own family gathering.
               </p>

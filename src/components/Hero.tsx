@@ -189,7 +189,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenDownload }) => {
           </div>
 
           <div className="flex flex-col items-center justify-center p-3 rounded-2xl bg-white/60 border border-stone-200/40">
-            <span className="text-lg sm:text-xl font-extrabold font-display text-[#0A5C36]">Dual Marketplace</span>
+            <span className="text-lg sm:text-xl font-extrabold font-display text-[#0A5C36]">Marketplace</span>
             <span className="text-xs text-stone-600 font-semibold mt-0.5">Marketplace Food & Party Supplies</span>
           </div>
 

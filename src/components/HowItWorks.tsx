@@ -40,7 +40,7 @@ export const HowItWorks: React.FC = () => {
     {
       num: '04',
       title: 'Track Live to Your Door',
-      description: 'Watch your dedicated courier navigate the St. Thomas and Kingston map in real time with live GPS updates and exact arrival countdown.',
+      description: 'Watch your dedicated courier navigate the St. Thomas to Kingston map in real time with live GPS updates and exact arrival countdown.',
       icon: Navigation,
       iconBg: 'bg-[#0A5C36]',
       iconColor: 'text-[#F5A623]',

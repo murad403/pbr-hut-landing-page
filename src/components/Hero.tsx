@@ -28,7 +28,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenDownload }) => {
 
             {/* Top Badge: Jamaican Island Pride */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#0A5C36]/10 border border-[#0A5C36]/20 text-[#0A5C36] text-xs sm:text-sm font-bold mb-6">
-              <span className="font-semibold">St. Thomas and Kingston’s Premier Food & Event App</span>
+              <span className="font-semibold">St. Thomas to Kingston’s Premier Food & Event App</span>
               <span className="w-1.5 h-1.5 rounded-full bg-[#C33600] animate-ping" />
             </div>
 
